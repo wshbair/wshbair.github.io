@@ -2,52 +2,43 @@
   "basics": {
     "name": "Wazen Shbair",
     "label": "Senior Blockchain Architect",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://wshbair.github.io/images/wazen.jpg",
     "email": "wazen.shbair@gmail.com",
-    "phone": "808-333-4444",
+    "phone": "000-000-000",
     "website": "https://wshbair.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": " I am Senior Research and Develpment expert with PhD and engnireering degree in Computer Scenice ",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Luxembourg",
+      "countryCode": "Luxembourg",
+      "region": "Luxembourg"
     },
     "profiles": [
       {
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/wshbair"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/wshbair"
       },
       {
         "network": "twitter",
         "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://twitter.com/wshbair"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "DLT and Blockchain",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
+        "Ethereum",
+        "Smart Contract", 
+        "Solidity"
       ]
     },
     {

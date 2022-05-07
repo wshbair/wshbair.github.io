@@ -45,27 +45,55 @@
   ],
   "skills": [
     {
+      "name": "DLT and Blockchain",
+      "level": "Expert",
+      "keywords": [
+        "Ethereum",
+        "Smart Contract",
+        "Ripple XRPL",
+        "HyperLedger",
+        "Solidity"
+      ]
+    },
+    {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Expert",
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "JQuery",
+        "NodeJS",
+        "Python",
+        "Flask",
+        "Go",
+        "PhP"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Expert",
       "keywords": [
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "AWS", 
+        "Docker",
+        "Unit Testing"
       ]
+    },
+    {
+      "name": "Frontend Framework",
+      "level":"Expert",
+      "keywords":["React", "Flask", "VueJS", "Laravel"]
+    },
+    {
+      "name": "Mobile App development",
+      "level":"Advance",
+      "keywords":["IOS", "Android"]
     }
   ],
   "education": [

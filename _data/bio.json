@@ -98,14 +98,24 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "institution": "University of Lorraine, Nancy, France",
+      "area": "Service-Level Monitoring of HTTPS Traffic",
+      "studyType": "PhD",
       "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "endDate": "2017-05-01"
+    },
+    {
+      "institution": "University of Cairo, Egypt",
+      "area": "Network Traffic Analysis",
+      "studyType": "MSc",
+      "startDate": "2006-09-01",
+      "endDate": "2009-05-01"
+    },
+    {
+      "institution": "Islamic University of Gaza, Palestine",
+      "studyType": "BSc",
+      "startDate": "2001-09-01",
+      "endDate": "2006-05-01"
     }
   ],
   "work": [

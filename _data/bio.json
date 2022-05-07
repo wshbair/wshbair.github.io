@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Wazen Shbair",
+    "name": "Wazen Shbair (Dr. -Ing.)",
     "label": "Senior Blockchain Architect",
     "picture": "https://wshbair.github.io/images/wazen.jpg",
     "email": "wazen.shbair@gmail.com",
@@ -9,10 +9,9 @@
     "summary": "Senior Research and Development expert with PhD degree in Computer Science. A Full stack developer with advance experiences in developing prototypes and Proof-of-Concepts",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "0000",
       "city": "Luxembourg",
-      "countryCode": "Luxembourg",
-      "region": "Luxembourg"
+      "countryCode": "Luxembourg"
     },
     "profiles": [
       {

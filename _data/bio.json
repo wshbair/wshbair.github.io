@@ -6,7 +6,7 @@
     "email": "wazen.shbair@gmail.com",
     "phone": "000-000-000",
     "website": "https://wshbair.github.io",
-    "summary": "Senior Research and Development expert with PhD degree in Computer Science. A Full stack developer with advance experiences in developing prototypes and Proof-of-Concepts",
+    "summary": "Senior Research and Development expert with PhD degree in Computer Science. A Full stack developer with advance experiences in developing prototypes and Proof-of-Concepts.",
     "location": {
       "address": "",
       "postalCode": "0000",
@@ -23,6 +23,11 @@
         "network": "linkedin",
         "username": "wazenshbair",
         "url": "http://linkedin.com/in/wazenshbair"
+      },
+      {
+        "network": "researchgate",
+        "username": "Wazen-Shbair",
+        "url": "https://www.researchgate.net/profile/Wazen-Shbair"
       },
       {
         "network": "twitter",

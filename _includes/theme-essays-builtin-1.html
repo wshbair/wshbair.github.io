@@ -9,16 +9,21 @@
   </div>
 </h2>
 
-<div style="margin-bottom: 20px; margin-top: 20px;" class="ui stackable grid container">
+<div style="margin-bottom: 20px; margin-top: 10px;" class="ui stackable grid container">
   <div class="row">
     <div class="fourteen wide column no-bottom">
       {% for entry in site.data.bio.theses %}
 
       <div class="ui grid">
         <div class="sixteen wide column no-bottom">
-          <div class="header">{{ entry.type }}</div>
-          <p> Title: {{ entry.title }} </p>
-          <p> University: {{ entry.university }} </p>
+          <div class="header"><b>{{ entry.type }}</b></div>
+          <p> 
+            Title: {{ entry.title }} <br>
+            University: {{ entry.university }}
+            Country: {{ entry.country}}
+            Year: {{ entry.year }}
+            Keyword: {{ entry.keywords}}
+          </p>
         </div>
       </div>
       

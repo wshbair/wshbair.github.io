@@ -218,12 +218,13 @@
   ],
   "publications": [
     {
-      "name":"test",
       "author":"test",
-      "publisher":"test",
-      "releaseDate":"University of Luxembourg, SnT, Luxembourg",
-      "website":"http://manoa.hawaii.edu/reis",
-      "summary":""
+      "booktitle":"test",
+      "title":"test",
+      "year":"University of Luxembourg, SnT, Luxembourg",
+      "link":"http://manoa.hawaii.edu/reis",
+      "pages":"",
+      "organization":""
     }
   ]
 }

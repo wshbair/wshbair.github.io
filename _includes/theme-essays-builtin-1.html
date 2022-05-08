@@ -48,7 +48,7 @@
         <div class="ui grid">
           <div class="sixteen wide column no-bottom">
             <p class="ui no-bottom">
-              {{ entry.author }} ({{ entry.year }}),<div class="ui label"> {{ entry.title }} </div> . In <em>{{ entry.booktitle }}</em>, {{ entry.organization }}, pp. {{ entry.pages }}
+              {{ entry.author }} ({{ entry.year }}), <span><h5>{{ entry.title }}</h5></span> . In <em>{{ entry.booktitle }}</em>, {{ entry.organization }}, pp. {{ entry.pages }}
               {% if entry.link %}
             <p class="ui no-bottom"><a href="{{ entry.link }}">{{ entry.link}}</a></p>
             {% endif %}

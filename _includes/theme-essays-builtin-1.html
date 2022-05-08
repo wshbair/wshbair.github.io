@@ -50,7 +50,7 @@
             <p class="ui no-bottom">
               {{ entry.author }} ({{ entry.year }}), <b>{{ entry.title }}</b> . In <em>{{ entry.booktitle }}</em>, {{ entry.organization }}, pp. {{ entry.pages }} 
               {% if entry.link %}
-            <p class="ui no-bottom"> <a href={{ entry.link }}><i class="file pdf outline red icon"></i></a></p>
+            <a href={{ entry.link }}><i class="file pdf outline red icon"></i></a>
             {% endif %}
             </p>
           </div>

@@ -215,5 +215,15 @@
       "name": "Available upon request",
       "reference": ""
     }
+  ],
+  "publications": [
+    {
+      "name":"test",
+      "author":"test",
+      "publisher":"test",
+      "releaseDate":"University of Luxembourg, SnT, Luxembourg",
+      "website":"http://manoa.hawaii.edu/reis",
+      "summary":""
+    }
   ]
 }

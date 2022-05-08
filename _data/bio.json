@@ -250,18 +250,20 @@
       "type":"PhD",
       "university": "University of Lorraine",
       "country": "Nancy, France",
-      "title":"",
-      "keywords":[],
+      "title":"Service-Level Monitoring of HTTPS Traffic",
+      "keywords":["HTTPS", "Security monitoring", "Traffic analysis", "Firewall"],
       "summary":"",
-      "link":""
+      "year": "2017",
+      "link":"https://www.researchgate.net/publication/321347130_Service-Level_Monitoring_of_HTTPS_Traffic"
     },
     {
-      "type":"PhD",
-      "university": "University of Lorraine",
-      "country": "Nancy, France",
-      "title":"",
+      "type":"Master of Science",
+      "university": "University of Cairo",
+      "country": "Cairo, Egypt",
+      "title":"A new security mechanism to perform traffic anonymity with dummy traffic synthesis",
       "keywords":[],
       "summary":"",
+      "year": "2017",
       "link":""
     }
   ]

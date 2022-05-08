@@ -245,6 +245,24 @@
       "organization":"IEEE"
     },
     {
+      "author":"R. Norvill, C. Cassanges <b>W. Shbair</b>, J. Hilger, A. Cullen and R. State",
+      "booktitle":"ASIA CCS '20: The 15th ACM Asia Conference on Computer and Communications Security",
+      "title":"Blockchain-based, decentralized access control for IPFS",
+      "year":"2020",
+      "link":"",
+      "pages":"151–160",
+      "organization":"ACM"
+    },
+    {
+      "author":"A. Yakubov, <b>W. Shbair</b>, N. Khan, Ch. Medinger, J. Hilger and R. State",
+      "booktitle":"International Journal of Networking and Computing",
+      "title":"BlockPGP: A Blockchain-based Framework for PGP Key Servers",
+      "year":"2020",
+      "link":"",
+      "pages":"1-24",
+      "organization":"IEEE"
+    },
+    {
       "author":"M. Steichen, B. Fiz, R. Norvill, <b>W. Shbair</b>, and R. State",
       "booktitle":"2018 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)",
       "title":"Blockchain-based, decentralized access control for IPFS",

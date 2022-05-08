@@ -11,7 +11,7 @@
 </div>
 <div style="margin-top: 10px; " class="ui stackable grid container">
 <div class="sixteen wide column no-bottom">
-  <h3 class="ui left aligned header no-bottom">Publications</h3>
+  <h3 class="ui left aligned header no-bottom">Publications List</h3>
 </div>
 
 <div style="margin-bottom: 20px" class="ui stackable grid container">
@@ -23,12 +23,11 @@
     <div class="ui grid">
       <div class="sixteen wide column no-bottom">
         <p class="ui no-bottom">
-          <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
-          {% if entry.website %}
-        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
+          {{ entry.author }}, <em>{{ entry.title }}</em>, {{ entry.booktitle }}. In {{ entry.booktitle }}, {{entry.pages}}, {{entry.organization}} {{entry.year}}
+          {% if entry.link %}
+        <p class="ui no-bottom"><a href="{{ entry.link }}">{{ entry.link}</a></p>
         {% endif %}
         </p>
-        <p class="ui no-bottom">{{ entry.summary }}</p>
       </div>
     </div>
 

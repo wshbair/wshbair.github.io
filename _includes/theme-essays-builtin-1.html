@@ -48,9 +48,9 @@
         <div class="ui grid">
           <div class="sixteen wide column no-bottom">
             <p class="ui no-bottom">
-              {{ entry.author }} ({{ entry.year }}), <b>{{ entry.title }}</b> . In <em>{{ entry.booktitle }}</em>, {{ entry.organization }}, pp. {{ entry.pages }}
+              {{ entry.author }} ({{ entry.year }}), <b>{{ entry.title }}</b> . In <em>{{ entry.booktitle }}</em>, {{ entry.organization }}, pp. {{ entry.pages }} 
               {% if entry.link %}
-            <p class="ui no-bottom"><a href="{{ entry.link }}">{{ entry.link}}</a></p>
+            <p class="ui no-bottom"> <a href={{ entry.link }}><i class="file pdf outline red icon"></i></a></p>
             {% endif %}
             </p>
           </div>

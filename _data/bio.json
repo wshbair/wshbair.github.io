@@ -187,8 +187,8 @@
   "awards": [
     {
       "title": "FnR JUMP21 (12 months)",
-      "date": "2022-Present",
-      "awarder": "FNR - Luxembourg National Research Fund, Luxembourg",
+      "date": "2022",
+      "awarder": "FNR - Luxembourg National Research Fund",
       "summary": "Develope Digital Cardio Rehab Platform (WavyMeet)"
     },
     {
@@ -200,12 +200,12 @@
     {
       "title": "Industrial Fellowships (24 months)",
       "date": "2017",
-      "awarder": "FNR - Luxembourg National Research Fund, Luxembourg",
+      "awarder": "FNR - Luxembourg National Research Fund",
       "summary": "Large-Scale Blockchain Testbed"
     },
     {
       "title": "Full PhD Scholarship (36 months)",
-      "date": "2013-2016",
+      "date": "2013",
       "awarder": "Erasmus EPIC Program, EU",
       "summary": "Study PhD degree on University of Lorraine, France"
     }

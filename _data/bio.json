@@ -126,7 +126,6 @@
       "website": "https://wwwen.uni.lu/snt",
       "startDate": "2017-05-01",
       "endDate": "2022-05-01",
-      "summary": "Researcher and R&D Specialists",
       "highlights": [
         "Leads the technical development of POC projects.",
         "Supervise and Support PhD students in research and prototypes development"
@@ -157,7 +156,7 @@
       ]
     }
   ],
-  
+
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
@@ -187,16 +186,28 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "FnR JUMP21 (12 months)",
+      "date": "2022-Present",
+      "awarder": "FNR - Luxembourg National Research Fund, Luxembourg",
+      "summary": "Develope Digital Cardio Rehab Platform (WavyMeet)"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "XRPL Grant (6 months)",
+      "date": "2019",
+      "awarder": "Ripple, USA",
+      "summary": "Develop a platform for smart contract development using Visual programming languages"
+    },
+    {
+      "title": "Industrial Fellowships (24 months)",
+      "date": "2017",
+      "awarder": "FNR - Luxembourg National Research Fund, Luxembourg",
+      "summary": "Large-Scale Blockchain Testbed"
+    },
+    {
+      "title": "Full PhD Scholarship (36 months)",
+      "date": "2013-2016",
+      "awarder": "Erasmus EPIC Program, EU",
+      "summary": "Study PhD degree on University of Lorraine, France"
     }
   ],
   "references": [

@@ -9,16 +9,16 @@
   </div>
 </h3>
 
-<div style="margin-bottom: 20px; margin-top: 5px;" class="ui stackable grid container">
+<div style="margin-bottom: 10px; margin-top: 5px;" class="ui stackable grid container">
   <div class="row">
     <div class="fourteen wide column no-bottom">
       {% for entry in site.data.bio.theses %}
 
       <div class="ui grid">
         <div class="sixteen wide column no-bottom">
-          <div class="header"><b>{{ entry.type }}</b></div>
+          <div class="header"><b> {{ entry.year}} - {{ entry.type }}</b></div>
           <p> 
-            Title: {{ entry.title }} ({{ entry.year}})<br>
+            Title: {{ entry.title }}<br>
             University: {{ entry.university }}, {{ entry.country}}<br>
             Keyword: {{ entry.keywords}}<br>
             Document Link: <a href={{ entry.link }}><i class="file pdf outline red icon"></i></a> <br>
@@ -39,7 +39,7 @@
   </div>
 </h3>
 
-  <div style="margin-bottom: 20px" class="ui stackable grid container">
+  <div style="margin-bottom: 5px" class="ui stackable grid container">
     
   {% if site.data.bio.publications %}
     <div class="row">

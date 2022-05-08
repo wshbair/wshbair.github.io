@@ -263,6 +263,33 @@
       "organization":"IEEE"
     },
     {
+      "author":" R. Norvill, M. Steichen, <b>W. Shbair</b>, and R. State",
+      "booktitle":"IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2019)",
+      "title":"Demo: Blockchain for the Simplification and Automation of KYC Result Sharing",
+      "year":"2019",
+      "link":"",
+      "pages":"",
+      "organization":"IEEE"
+    },
+    {
+      "author":"<b>W. Shbair</b>, M. Steichen, J.François and R. State",
+      "booktitle":"IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2019)",
+      "title":"BlockZoom: Large-Scale Blockchain Testbed",
+      "year":"2019",
+      "link":"",
+      "pages":"",
+      "organization":"IEEE"
+    },
+    {
+      "author":"A. Yakubov, <b>W. Shbair</b>, A. Wallbom, D. Sanda and R. State",
+      "booktitle":"NOMS 2018 - 2018 IEEE/IFIP Network Operations and Management Symposium",
+      "title":"A Blockchain-Based PKI Management Framework",
+      "year":"2018",
+      "link":"",
+      "pages":"1-6",
+      "organization":"IEEE"
+    },
+    {
       "author":"M. Steichen, B. Fiz, R. Norvill, <b>W. Shbair</b>, and R. State",
       "booktitle":"2018 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)",
       "title":"Blockchain-based, decentralized access control for IPFS",
@@ -270,7 +297,53 @@
       "link":"",
       "pages":"1499-1506",
       "organization":"IEEE"
+    },
+    {
+      "author":"<b>W. Shbair</b>, M. Steichen, J.François and R. State",
+      "booktitle":"NOMS 2018 - 2018 IEEE/IFIP Network Operations and Management Symposium",
+      "title":"Blockchain Orchestration and Experimentation Framework: A Case Study of KYC",
+      "year":"2018",
+      "link":"",
+      "pages":"1-6",
+      "organization":"IEEE"
+    },
+    {
+      "author":"<b>W. Shbair</b>, Th. Cholez, J. Francois and I. Chrisment",
+      "booktitle":"IEEE International Workshop on Security Testing and Monitoring co-located with IEEE ICDCS 2016",
+      "title":"Improving SNI-based HTTPS Security Monitoring",
+      "year":"2016",
+      "link":"",
+      "pages":"",
+      "organization":"IEEE"
+    },
+    {
+      "author":"<b>W. Shbair</b>, Th. Cholez, J. Francois and I. Chrisment",
+      "booktitle":"IEEE/IFIP Network Operations and Management Symposium (NOMS)",
+      "title":"A multi-level framework to identify HTTPS services",
+      "year":"2018",
+      "link":"",
+      "pages":"240-248",
+      "organization":"IEEE"
+    },
+    {
+      "author":"<b>W. Shbair</b>, Th. Cholez, and I. Chrisment",
+      "booktitle":"IEEE Symposium on Integrated Network and Service Management (IM 2015)",
+      "title":"Efficiently bypassing SNI-based HTTPS filtering",
+      "year":"2016",
+      "link":"",
+      "pages":"",
+      "organization":"IEEE"
+    },
+    {
+      "author":"<b>W. Shbair</b>, A. Bashandy, S. Shaheen",
+      "booktitle":"12th IEEE International Conference on Computational Science and Engineering",
+      "title":"A New Security Mechanism to Perform Traffic Anonymity with Dummy Traffic Synthesis",
+      "year":"2009",
+      "link":"",
+      "pages":"405-411",
+      "organization":"IEEE"
     }
+
   ],
   "theses": [
     {

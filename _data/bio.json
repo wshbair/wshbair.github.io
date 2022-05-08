@@ -218,21 +218,30 @@
   ],
   "publications": [
     {
-      "author":"M. Steichen, B. Fiz, R. Norvill, <b>W. Shbair</b>, and R. State",
-      "booktitle":"2018 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)",
-      "title":"Blockchain-based, decentralized access control for IPFS",
-      "year":"2018",
+      "author":"F. Cristo, <b>W. Shbair</b>, L.  Trestioreanu,  and R. State",
+      "booktitle":"IEEE International Conference on Blockchain (Blockchain)",
+      "title":"Self-Sovereign Identity for the Financial Sector: A Case Study of PayString Service",
+      "year":"2021",
       "link":"",
-      "pages":"1499-1506",
+      "pages":"210-220",
       "organization":"IEEE"
     },
     {
-      "author":"M. Steichen, B. Fiz, R. Norvill, <b>W. Shbair</b>, and R. State",
-      "booktitle":"2018 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)",
-      "title":"Blockchain-based, decentralized access control for IPFS",
-      "year":"2018",
+      "author":"F. Cristo, <b>W. Shbair</b>, L.  Trestioreanu, A. Malhotra  and R. State",
+      "booktitle":"IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+      "title":"Privacy-Preserving PayString Service",
+      "year":"2021",
       "link":"",
-      "pages":"1499-1506",
+      "pages":"210-220",
+      "organization":"IEEE"
+    },
+    {
+      "author":"<b>W. Shbair</b>, E. Gavrilov and R. State",
+      "booktitle":"IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+      "title":"HSM-based Key Management Solution for Ethereum Blockchain",
+      "year":"2021",
+      "link":"",
+      "pages":"1-3",
       "organization":"IEEE"
     },
     {

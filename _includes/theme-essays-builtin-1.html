@@ -4,27 +4,6 @@
   <h3 class="ui left aligned header no-bottom">Publications List</h3>
 </div>
 
-<div style="margin-bottom: 20px" class="ui stackable grid container">
-  {% if site.data.bio.publications %}
-<div class="row">
-  <div class="fourteen wide column no-bottom">
-    {% for entry in site.data.bio.publications %}
 
-    <div class="ui grid">
-      <div class="sixteen wide column no-bottom">
-        <p class="ui no-bottom">
-          {{ entry.author }}, <em>{{ entry.title }}</em>, {{ entry.booktitle }}. In {{ entry.booktitle }}, {{entry.pages}}, {{entry.organization}} {{entry.year}}
-          {% if entry.link %}
-        <p class="ui no-bottom"><a href="{{ entry.link }}">{{ entry.link}</a></p>
-        {% endif %}
-        </p>
-      </div>
-    </div>
-
-    {% endfor %}
-  </div>
-</div>
-{% endif %}
-</div>
 </div>
 

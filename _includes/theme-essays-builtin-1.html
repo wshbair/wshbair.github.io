@@ -18,7 +18,7 @@
         <div class="sixteen wide column no-bottom">
           <div class="header"><b> {{ entry.year}} - {{ entry.type }}</b></div>
           <p> 
-            <div class="ui label"> Title: </div>{{ entry.title }} <a href={{ entry.link }}><i class="file pdf red icon"></i></a><br>
+            <div class="ui label"> Title: </div>{{ entry.title }} <a href={{ entry.link }}><i class="file pdf outline red icon"></i></a><br>
             <div class="ui label"> University: </div> {{ entry.university }}, {{ entry.country}}<br>
             <div class="ui label"> Keyword: </div> {{ entry.keywords}}<br>
           </p>
@@ -48,7 +48,7 @@
         <div class="ui grid">
           <div class="sixteen wide column no-bottom">
             <p class="ui no-bottom">
-              {{ entry.author }} ({{ entry.year }}), {{ entry.title }}. In <em>{{ entry.booktitle }}</em>, {{ entry.organization }} pp. {{ entry.pages }}
+              {{ entry.author }} ({{ entry.year }}),<div class="ui label"> {{ entry.title }} </div> . In <em>{{ entry.booktitle }}</em>, {{ entry.organization }}, pp. {{ entry.pages }}
               {% if entry.link %}
             <p class="ui no-bottom"><a href="{{ entry.link }}">{{ entry.link}}</a></p>
             {% endif %}

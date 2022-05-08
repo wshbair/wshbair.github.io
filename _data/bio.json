@@ -225,6 +225,15 @@
       "link":"http://manoa.hawaii.edu/reis",
       "pages":"",
       "organization":""
+    },
+    {
+      "author":"Steichen, Mathis and Fiz, Beltran and Norvill, Robert and Shbair, Wazen and State, Radu",
+      "booktitle":"2018 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)",
+      "title":"Blockchain-based, decentralized access control for IPFS",
+      "year":"2018",
+      "link":"http://manoa.hawaii.edu/reis",
+      "pages":"pp1499-1506",
+      "organization":"IEEE"
     }
   ]
 }

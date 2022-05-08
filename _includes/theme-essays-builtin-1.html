@@ -9,7 +9,20 @@
   {% if site.data.bio.publications %}
     <div class="row">
       <div class="fourteen wide column no-bottom">
-       XXXX
+        {% for entry in site.data.bio.publications %}
+
+        <div class="ui grid">
+          <div class="sixteen wide column no-bottom">
+            <p class="ui no-bottom">
+              {{ entry.author }}, <em>{{ entry.title }}</em>, {{ entry.booktitle }}. In {{ entry.booktitle }}, {{ entry.pages }}, {{ entry.organization }} {{ entry.year }}
+              {% if entry.link %}
+            <p class="ui no-bottom"><a href="{{ entry.link }}">{{ entry.link}}</a></p>
+            {% endif %}
+            </p>
+          </div>
+        </div>
+        
+        {% endfor %}
       </div>
     </div>
   {% endif %}

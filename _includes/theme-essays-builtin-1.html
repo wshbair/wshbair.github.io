@@ -9,7 +9,7 @@
   </div>
 </h2>
 
-<div style="margin-bottom: 20px; margin-top: 10px;" class="ui stackable grid container">
+<div style="margin-bottom: 20px; margin-top: 5px;" class="ui stackable grid container">
   <div class="row">
     <div class="fourteen wide column no-bottom">
       {% for entry in site.data.bio.theses %}
@@ -23,7 +23,7 @@
             Country: {{ entry.country}}<br>
             Year: {{ entry.year }}<br>
             Keyword: {{ entry.keywords}}<br>
-            Link: <i class="file pdf outline icon"></i><br>
+            Link: <a href={{ entry.link }}><i class="file pdf outline red icon"></i></a> <br>
           </p>
         </div>
       </div>

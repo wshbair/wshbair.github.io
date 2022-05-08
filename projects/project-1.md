@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://raw.githubusercontent.com/wshbair/blockly2hooks/main/blockly2hook_shot.png
+image: images/blockly2hook_shot.png
 title: Blockly2Hooks
 permalink: projects/blockly2hooks
 # All dates must be YYYY-MM-DD format!

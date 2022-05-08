@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Blockly2Hooks
-permalink: projects/micromouse
+permalink: projects/blockly2hooks
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-01
 labels:

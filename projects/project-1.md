@@ -13,7 +13,7 @@ labels:
 summary: A platform for developing visually XRPL hooks smart contract using Blockly from Google. The paltform helps users to develop XRPL Hook using visual drag-and-drop blocks. Also it compiles the hook code into WASM format. We have integrated also the deployment function to the XRPL Hook testnet network.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="https://raw.githubusercontent.com/wshbair/blockly2hooks/main/blockly2hook_shot.png">
 </div>
 

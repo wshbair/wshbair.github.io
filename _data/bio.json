@@ -244,5 +244,16 @@
       "pages":"1499-1506",
       "organization":"IEEE"
     }
+  ],
+  "theses": [
+    {
+      "type":"PhD",
+      "university": "University of Lorraine",
+      "country": "Nancy, France",
+      "title":"",
+      "keywords":[],
+      "summary":"",
+      "link":""
+    }
   ]
 }

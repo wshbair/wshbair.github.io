@@ -13,5 +13,5 @@ labels:
   - Sukuk
   - Ethereum
   - Islamic Finance
-summary: This project is intended to tokenize mortgage sukuk via blockchain technology. The main users of the process are solo investor, notary and SPV. The SPV setup as the originator of the mortgage, it buys and sells the CRE with the funding from the Sole Investor.
+summary: This project is intended to tokenize Mortgage Sukuk via blockchain technology.
 ---

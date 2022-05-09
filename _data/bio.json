@@ -218,7 +218,7 @@
   ],
   "publications": [
     {
-      "author":"F. Cristo, <b>W. Shbair</b>, L.  Trestioreanu,  and R. State",
+      "author":"F. Cristo, <b>W. Shbair</b>, L. Trestioreanu, and R. State",
       "booktitle":"IEEE International Conference on Blockchain (Blockchain)",
       "title":"Self-Sovereign Identity for the Financial Sector: A Case Study of PayString Service",
       "year":"2021",
@@ -227,7 +227,7 @@
       "organization":"IEEE"
     },
     {
-      "author":"F. Cristo, <b>W. Shbair</b>, L.  Trestioreanu, A. Malhotra  and R. State",
+      "author":"F. Cristo, <b>W. Shbair</b>, L. Trestioreanu, A. Malhotra  and R. State",
       "booktitle":"IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
       "title":"Privacy-Preserving PayString Service",
       "year":"2021",
@@ -263,7 +263,7 @@
       "organization":"IEEE"
     },
     {
-      "author":" R. Norvill, M. Steichen, <b>W. Shbair</b>, and R. State",
+      "author":"R. Norvill, M. Steichen, <b>W. Shbair</b>, and R. State",
       "booktitle":"IEEE International Conference on Blockchain and Cryptocurrency (ICBC 2019)",
       "title":"Demo: Blockchain for the Simplification and Automation of KYC Result Sharing",
       "year":"2019",
@@ -357,11 +357,11 @@
       "link":"https://www.researchgate.net/publication/321347130_Service-Level_Monitoring_of_HTTPS_Traffic"
     },
     {
-      "type":"Master of Science",
+      "type":"Master of Science (Msc)",
       "university": "University of Cairo",
       "country": "Cairo, Egypt",
       "title":"A new security mechanism to perform traffic anonymity with dummy traffic synthesis",
-      "keywords":[],
+      "keywords":"Traffic analysis, ",
       "summary":"",
       "year": "2006-2009",
       "link":""

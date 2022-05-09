@@ -15,17 +15,16 @@
     <div class="description">
       {{ include.page.summary }}
     </div>
-    <div class="content">
-        <a href={{ include.page.github }} ><i class="github big black link icon"></i> </a>
-        <a href={{ include.page.demo }} ><i class="youtube square red link big icon"></i> </a>
-    </div>
-  </div>
-
-  <div class="extra content">
     <div class="ui mini labels">
       {% for label in include.page.labels %}
         <div class="ui basic label">{{ label }}</div>
       {% endfor %}
     </div>
+  </div>
+
+  <div class="extra content">
+    <a href={{ include.page.github }} ><i class="github big black link icon"></i> </a>
+    <a href={{ include.page.demo }} ><i class="youtube square red link big icon"></i> </a>
+   
   </div>
 </div>

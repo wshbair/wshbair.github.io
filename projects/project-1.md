@@ -12,7 +12,7 @@ labels:
   - XRPL
   - Hooks
   - Blockly
-summary: A platform for developing visually XRPL hooks smart contract using Blockly from Google. The paltform helps users to develop XRPL Hook using visual drag-and-drop blocks. Also it compiles the hook code into WASM format. We have integrated also the deployment function to the XRPL Hook testnet network.
+summary: A platform for developing visually XRPL hooks smart contract using Blockly from Google.
 ---
 
 

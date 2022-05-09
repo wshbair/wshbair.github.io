@@ -4,8 +4,8 @@ type: project
 image: images/blockly2hook_shot.png
 title: Blockly2Hooks
 permalink: projects/blockly2hooks
-github: www.payid.lu
-demo: www.payid.lu
+github: #
+demo: #
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-01
 labels:

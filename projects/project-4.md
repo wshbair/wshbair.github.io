@@ -4,8 +4,8 @@ type: project
 image: images/eco-receipt.png
 title: ECO-Receipt
 permalink: projects/eco-receipt
-github: www.payid.lu
-demo: www.payid.lu
+github: #
+demo: #
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:

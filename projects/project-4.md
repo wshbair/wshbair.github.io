@@ -7,7 +7,7 @@ permalink: projects/eco-receipt
 github: #
 demo: #
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-04-12
 labels:
   - Python
   - REST

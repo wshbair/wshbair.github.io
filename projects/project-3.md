@@ -7,7 +7,7 @@ permalink: projects/hsm
 github: https://github.com/wshbair/HSM2ETH
 demo: https://www.youtube.com/watch?v=R0_-ZKoEGn8
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2022-04-12
 labels:
   - HSM
   - Ethereum

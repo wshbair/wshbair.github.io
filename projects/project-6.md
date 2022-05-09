@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/sukuk.png
-title: BlockZoom
-permalink: projects/blockzoom
+title: Tokenized Mortgage Sukuk
+permalink: projects/sukuk
 github: https://github.com/wshbair/sukukx
 demo: https://youtu.be/2LO1FZ4I_ZE
 # All dates must be YYYY-MM-DD format!

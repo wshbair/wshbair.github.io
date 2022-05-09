@@ -10,15 +10,9 @@ labels:
   - Python
   - REST
   - Flask
-summary: A digitalization solution of paper-receipts used in retail shops. Developed using
+summary: A digitalization solution of paper-receipts used in retail shops.
 ---
+A digitalization solution of paper-receipts used in retail shops.
 
-The security of distributed applications backed by blockchain technology relies mainly on keeping the associated cryptographic keys (i.e. private keys) in well-protected storage. Since they are the unique proof of ownership of the underlying digital assets. If the keys are stolen or lost, there is no way
-to recover the assets. The cold wallet is a good candidate for basic use cases, but it has a substantial challenge for more
-complex applications as it does not scale. Warm and hot wallets are more convenient options for blockchain-based solutions that
-aim to transact in a cloud environment. In this work, we focus on Hardware Security Module (HSM) based wallet. The HSM
-is the de-facto standard device designed to manage high-value cryptographic keys and to protect them against hacks. In this
-demonstration, we present an HSM-based working prototype that secures the entire life cycle of Ethereum public and private keys.
-
-<div class="ui embed" data-url="https://www.youtube.com/watch?v=R0_-ZKoEGn8" data-placeholder="/images/demo.png"></div>
+<div class="ui embed" data-url="https://youtu.be/AC16hm3zS1c" data-placeholder="/images/demo.png"></div>
 

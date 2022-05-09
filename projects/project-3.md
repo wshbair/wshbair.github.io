@@ -4,6 +4,8 @@ type: project
 image: images/hsm.png
 title: HSM-based Ethereum Key Management Solution
 permalink: projects/hsm
+github: www.payid.lu
+demo: www.payid.lu
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:

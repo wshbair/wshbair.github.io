@@ -15,17 +15,17 @@
     },
     "profiles": [
       {
-        "Network": "GitHub",
+        "network": "GitHub",
         "username": "wshbair",
         "url": "http://github.com/wshbair"
       },
       {
-        "Network": "LinkedIn",
+        "network": "LinkedIn",
         "username": "wazenshbair",
         "url": "http://linkedin.com/in/wazenshbair"
       },
       {
-        "Network": "Twitter",
+        "network": "Twitter",
         "username": "WazenShbair",
         "url": "http://twitter.com/WazenShbair"
       }

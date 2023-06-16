@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/wavymeet.jpg
-title: Wavy Meet
+title: WAVY MEET
 permalink: projects/wavymeet
-github: #
+github: https://wavymeet.com/
 demo: https://youtu.be/sQHC9eVRf9c
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-15
 labels:
   - Cardio
   - eHealth
-summary: Wavy Meet Platform is a Software as a Medical Device (SaMD). It provides secured and enhanced video communication between rehabilitation patients and the medical staff. 
+summary: WAVY MEET Platform is a Software as a Medical Device (SaMD). It provides secured and enhanced video communication between rehabilitation patients and the medical staff. 
 ---
 

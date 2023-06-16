@@ -4,8 +4,8 @@ type: project
 image: images/PayStringSecureLogo-300x300.png
 title: PayStringSecure
 permalink: projects/paystring
-github: #
-demo: #
+github: https://github.com/wshbair/PayStringSecure
+demo: http://payid.lu/
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-15
 labels:

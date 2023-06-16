@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Wazen Shbair (Dr. -Ing.)",
-    "label": "Senior Blockchain Architect",
+    "label": "Senior Blockchain Architect in VNX",
     "picture": "https://wshbair.github.io/images/wazen.jpg",
     "email": "wazen.shbair@gmail.com",
     "phone": "000-000-000",
     "website": "https://wshbair.github.io",
-    "summary": "Senior Research and Development expert with PhD degree in Computer Science. A Full stack developer with advance experiences in developing prototypes and Proof-of-Concepts.",
+    "summary": "Senior Blockchain Architect with a Ph.D. in Computer Science. A Full stack developer with advanced experiences in developing prototypes and Proofs-of-Concept.",
     "location": {
       "address": "",
       "postalCode": "0000",
@@ -15,17 +15,17 @@
     },
     "profiles": [
       {
-        "network": "github",
+        "Network": "GitHub",
         "username": "wshbair",
         "url": "http://github.com/wshbair"
       },
       {
-        "network": "linkedin",
+        "Network": "LinkedIn",
         "username": "wazenshbair",
         "url": "http://linkedin.com/in/wazenshbair"
       },
       {
-        "network": "twitter",
+        "Network": "Twitter",
         "username": "WazenShbair",
         "url": "http://twitter.com/WazenShbair"
       }
@@ -69,7 +69,7 @@
         "Python",
         "Flask",
         "Go",
-        "PhP"
+        "PHP"
       ]
     },
     {
@@ -87,20 +87,20 @@
     },
     {
       "name": "Frontend Framework",
-      "level":"Expert",
+      "level": "Expert",
       "keywords":["React", "Flask", "VueJS", "Laravel"]
     },
     {
       "name": "Mobile App development",
-      "level":"Advance",
+      "level": "Advance",
       "keywords":["IOS", "Android"]
     }
   ],
-  "education": [
+  "Education": [
     {
-      "institution": "University of Lorraine, Nancy, France",
+      "institution": "The University of Lorraine, Nancy, France",
       "area": "Service-Level Monitoring of HTTPS Traffic",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2013-09-01",
       "endDate": "2017-05-01"
     },
@@ -128,7 +128,7 @@
       "endDate": "2022-05-01",
       "highlights": [
         "Leads the technical development of POC projects.",
-        "Supervise and Support PhD students in research and prototypes development"
+        "Supervise and Support Ph.D. students in research and prototypes development"
       ]
     },
     {
@@ -151,8 +151,8 @@
       "endDate": "2013-09-01",
       "summary": "",
       "highlights": [
-        "Courses: Programming with C, Data communication, Engineering management, Embedded system, UML, Data structures, Information management, Parallel programming",
-        "Mentor students graduation projects"
+        "Courses: Programming with C, Data communication, Engineering Management, Embedded system, UML, Data structures, Information management, Parallel programming",
+        "Mentor students' graduation projects"
       ]
     }
   ],
@@ -188,26 +188,26 @@
     {
       "title": "FnR JUMP21 (12 months)",
       "date": "2022",
-      "awarder": "FNR - Luxembourg National Research Fund",
-      "summary": "Develope Digital Cardio Rehab Platform (WavyMeet)"
+      "awarded": "FNR - Luxembourg National Research Fund",
+      "summary": "Develop Digital Cardio Rehab Platform (WavyMeet)"
     },
     {
       "title": "XRPL Grant (6 months)",
       "date": "2019",
-      "awarder": "Ripple, USA",
+      "awarded": "Ripple, USA",
       "summary": "Develop a platform for smart contract development using Visual programming languages"
     },
     {
       "title": "Industrial Fellowships (24 months)",
       "date": "2017",
-      "awarder": "FNR - Luxembourg National Research Fund",
+      "awarded": "FNR - Luxembourg National Research Fund",
       "summary": "Large-Scale Blockchain Testbed"
     },
     {
-      "title": "Full PhD Scholarship (36 months)",
+      "title": "Full Ph.D. Scholarship (36 months)",
       "date": "2013",
-      "awarder": "Erasmus EPIC Program, EU",
-      "summary": "Study PhD degree on University of Lorraine, France"
+      "awarded": "Erasmus EPIC Program, EU",
+      "summary": "Study PhD degree at University of Lorraine, France"
     }
   ],
   "references": [
@@ -218,7 +218,7 @@
   ],
   "publications": [
     {
-      "author":"F. Cristo, <b>W. Shbair</b>, L. Trestioreanu, and R. State",
+      "author": "F. Cristo, <b>W. Shbair</b>, L. Trestioreanu, and R. State",
       "booktitle":"IEEE International Conference on Blockchain (Blockchain)",
       "title":"Self-Sovereign Identity for the Financial Sector: A Case Study of PayString Service",
       "year":"2021",

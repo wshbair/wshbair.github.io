@@ -121,6 +121,17 @@
   ],
   "work": [
     {
+      "company": "VNX SA, Luxembourg",
+      "position": "Senior Blockchain Architect",
+      "website": "https://vnx.io",
+      "startDate": "2022-05-01",
+      "endDate": "Now",
+      "highlights": [
+        "Develope and audit smart contract",
+        "Novel blockchains platforms integration and testing"
+      ]
+    },
+    {
       "company": "University of Luxembourg, SnT, Luxembourg",
       "position": "Research Associate",
       "website": "https://wwwen.uni.lu/snt",
@@ -186,16 +197,22 @@
   ],
   "awards": [
     {
+      "title": "FIT4Start Acceleration Programme",
+      "date": "2023",
+      "awarded": "Ministry of Economy and Luxinnovation, Luxembourg",
+      "summary": "WAVY MEET has been selected as one of the 15 finalists in the Fit 4 Start Acceleration Programme. Managed by the Ministry of Economy and Luxinnovation with support from Technoport, the LCI, LuxProvide and the LHoFT."
+    },
+    {
       "title": "FnR JUMP21 (12 months)",
       "date": "2022",
       "awarded": "FNR - Luxembourg National Research Fund",
-      "summary": "Develop Digital Cardio Rehab Platform (WavyMeet)"
+      "summary": "Develop Digital Cardio Rehab Platform (WAVYMEET)"
     },
     {
       "title": "XRPL Grant (6 months)",
       "date": "2019",
       "awarded": "Ripple, USA",
-      "summary": "Develop a platform for smart contract development using Visual programming languages"
+      "summary": "Develop a platform for smart contract development using Visual Programming Languages"
     },
     {
       "title": "Industrial Fellowships (24 months)",
@@ -217,6 +234,15 @@
     }
   ],
   "publications": [
+    {
+      "author": "L. Trestioreanu, <b>W. Shbair</b>, F. Cristo, and R. State",
+      "booktitle":"NOMS 2023 - 36th IEEE/IFIP Network Operations and Management Symposium ",
+      "title":"XRP-NDN overlay: Improving the Communication Efficiency of Consensus-Validation based blockchains with an NDN overlay",
+      "year":"2023",
+      "link":"",
+      "pages":"XX-XX",
+      "organization":"IEEE"
+    },
     {
       "author": "F. Cristo, <b>W. Shbair</b>, L. Trestioreanu, and R. State",
       "booktitle":"IEEE International Conference on Blockchain (Blockchain)",

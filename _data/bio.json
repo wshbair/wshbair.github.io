@@ -6,10 +6,10 @@
     "email": "wazen.shbair@gmail.com",
     "phone": "000-000-000",
     "website": "https://wshbair.github.io",
-    "summary": "Senior Blockchain Architect with a Ph.D. in Computer Science. A Full stack developer with advanced experiences in developing prototypes and Proofs-of-Concept.",
+    "summary": "Senior Blockchain Architect with a PhD degree in Computer Science. A Full stack developer with advanced experiences in developing prototypes and Proofs-of-Concept.",
     "location": {
-      "address": "",
-      "postalCode": "0000",
+      "address": "4 Rue Jean Engling, L-1466, Luxembourg",
+      "postalCode": "1466",
       "city": "Luxembourg",
       "countryCode": "Luxembourg"
     },
@@ -52,7 +52,8 @@
         "Smart Contract",
         "Ripple XRPL",
         "HyperLedger",
-        "Solidity"
+        "Solidity",
+        "Tezos"
       ]
     },
     {
@@ -127,7 +128,7 @@
       "startDate": "2022-05-01",
       "endDate": "Now",
       "highlights": [
-        "Develope and audit smart contract",
+        "Develop and audit smart contract",
         "Novel blockchains platforms integration and testing"
       ]
     },
@@ -236,11 +237,20 @@
   "publications": [
     {
       "author": "L. Trestioreanu, <b>W. Shbair</b>, F. Cristo, and R. State",
+      "booktitle":"IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS 2023) ",
+      "title":"Blockly2Hooks: Smart Contracts for Everyone with the XRP Ledger and Google Blockly",
+      "year":"2023",
+      "link":"https://orbilu.uni.lu/handle/10993/54819",
+      "pages":"145-150",
+      "organization":"IEEE"
+    },
+    {
+      "author": "L. Trestioreanu, <b>W. Shbair</b>, F. Cristo, and R. State",
       "booktitle":"NOMS 2023 - 36th IEEE/IFIP Network Operations and Management Symposium ",
       "title":"XRP-NDN overlay: Improving the Communication Efficiency of Consensus-Validation based blockchains with an NDN overlay",
       "year":"2023",
-      "link":"",
-      "pages":"XX-XX",
+      "link":"https://orbilu.uni.lu/handle/10993/54061",
+      "pages":"1-5",
       "organization":"IEEE"
     },
     {

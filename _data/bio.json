@@ -124,12 +124,12 @@
     {
       "company": "VNX SA, Luxembourg",
       "position": "Senior Blockchain Architect",
-      "website": "https://vnx.io",
+      "website": "https://vnx.li",
       "startDate": "2022-05-01",
       "endDate": "Now",
       "highlights": [
         "Develop and audit smart contract",
-        "Novel blockchains platforms integration and testing"
+        "Novel blockchain platforms integration and testing"
       ]
     },
     {
@@ -140,7 +140,7 @@
       "endDate": "2022-05-01",
       "highlights": [
         "Leads the technical development of POC projects.",
-        "Supervise and Support Ph.D. students in research and prototypes development"
+        "Supervise and Support Ph.D. students in research and prototype development"
       ]
     },
     {
@@ -170,33 +170,21 @@
   ],
 
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
+    {
+      "title": "VNX Stablecoins on the XRPL",
+      "date": "2024",
+      "awarded": "XRPL, USA",
+      "summary": "VNX Commodities is Europe's first regulated tokenization platform and stablecoin issuer, registered with the Liechtenstein FMA under the TT Token Providers and Services Act (TVTG). In 2021 VNX launched VNXAU, a multichain token backed by physical gold, later VNX launched two fully backed stablecoins: VEUR and VCHF. With this project, VNX aims to expand operations to the XRPL ledger by issuing VNX tokens on the XRPL."
+      
+    },
+    {
+      "title": " Best Paper Award at the 2024 IEEE LATINCOM conference",
+      "date": "2023",
+      "awarded": "IEEE, USA",
+      "summary": "A paper titled with Pub/sub Dissemination on the XRP Ledger"
+    },
     {
       "title": "FIT4Start Acceleration Programme",
       "date": "2023",
@@ -204,7 +192,7 @@
       "summary": "WAVY MEET has been selected as one of the 15 finalists in the Fit 4 Start Acceleration Programme. Managed by the Ministry of Economy and Luxinnovation with support from Technoport, the LCI, LuxProvide and the LHoFT."
     },
     {
-      "title": "FnR JUMP21 (12 months)",
+      "title": "Luxembourg National Research Fund (FNR) - JUMP21 (12 months)",
       "date": "2022",
       "awarded": "FNR - Luxembourg National Research Fund",
       "summary": "Develop Digital Cardio Rehab Platform (WAVYMEET)"
@@ -236,13 +224,32 @@
   ],
   "publications": [
     {
-      "author": "L. Trestioreanu, <b>W. Shbair</b>, F. Cristo, and R. State",
+      "author": "L. Trestioreanu, F. de Cristo, <b>W. Shbair</b>, J. Francois, D. Magoni, and R. STATE",
+      "booktitle": "IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS 2023) ",
+      "title":"To Squelch or not to Squelch: Enabling Improved Message Dissemination on the XRP Ledger",
+      "year":"2024",
+      "link":"https://orbilu.uni.lu/handle/10993/57835",
+      "pages": "1542-1201",
+      "organization": "IEEE"
+    },
+    {
+      "author": "L. Trestioreanu, F. de Cristo, <b>W. Shbair</b>, J. Francois, D. Magoni, and R. STATE",
+      "booktitle": "IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS 2023) ",
+      "title":"To Squelch or not to Squelch: Enabling Improved Message Dissemination on the XRP Ledger",
+      "year":"2024",
+      "link":"https://orbilu.uni.lu/handle/10993/57835",
+      "pages": "1542-1201",
+      "organization": "IEEE"
+    },
+    
+    {
+     "author": "L. Trestioreanu, <b>W. Shbair</b>, F. Cristo, and R. State",
       "booktitle":"IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS 2023) ",
       "title":"Blockly2Hooks: Smart Contracts for Everyone with the XRP Ledger and Google Blockly",
       "year":"2023",
       "link":"https://orbilu.uni.lu/handle/10993/54819",
-      "pages":"145-150",
-      "organization":"IEEE"
+      "pages": "145-150",
+      "organization": "IEEE" 
     },
     {
       "author": "L. Trestioreanu, <b>W. Shbair</b>, F. Cristo, and R. State",

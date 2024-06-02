@@ -97,7 +97,7 @@
       "keywords":["IOS", "Android"]
     }
   ],
-  "Education": [
+  "education": [
     {
       "institution": "The University of Lorraine, Nancy, France",
       "area": "Service-Level Monitoring of HTTPS Traffic",

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/nirscan.jpg
+image: images/nirwatch-logo.jpg
 title: NIRWatchDog
 permalink: projects/nirwatchdog
 github: https://www.nir-watchdog.lu/

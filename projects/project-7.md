@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wavymeet.jpg
+image: [images/wavymeet.jpg](https://wavymeet.com/wp-content/uploads/2020/03/wm-new-logo.png)
 title: WAVY MEET
 permalink: projects/wavymeet
 github: https://wavymeet.com/
